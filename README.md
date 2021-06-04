@@ -5,3 +5,8 @@ I did my intern on The Spark Foundation(TSF) and here are my projects what I did
 - Internship Type     - Work from Home
 
 ### In this internship, I did some projects. Those projects are in this repository. Details are given below-
+### Project-1: Prediction using Supervised ML
+### Project-2: Prediction using Unsupervised ML
+### Project-3: Exploratory Data Analysis on Retail Dataset
+
+Watch on YouTube:- https://www.youtube.com/channel/UC3rh_KJNkJuAWQkkdlu8zig
